@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gargprek
-- 👀 I’m interested in ... cyber security.
-- 🌱 I’m currently learning ... coding/ video editing.
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... coding.
+- 🌱 I’m currently learning ... coding. 
 - 📫 How to reach me ... pls drop a mail on gargprek@gmail.com .
 
 <!---
